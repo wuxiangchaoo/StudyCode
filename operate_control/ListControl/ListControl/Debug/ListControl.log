@@ -1,0 +1,16 @@
+﻿生成启动时间为 4/2/2018 9:20:29 PM。
+     1>项目“D:\Vs2013 program\20180402\ListControl\ListControl\ListControl.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ListControl.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ListControlDlg.cpp
+         ListControlDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Vs2013 program\20180402\ListControl\Debug\ListControl.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Vs2013 program\20180402\ListControl\Debug\ListControl.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Vs2013 program\20180402\ListControl\Debug\ListControl.lib" /MACHINE:X86 Debug\ListControl.res
+         Debug\ListControl.obj
+         Debug\ListControlDlg.obj
+         Debug\stdafx.obj
+         ListControl.vcxproj -> D:\Vs2013 program\20180402\ListControl\Debug\ListControl.exe
+     1>已完成生成项目“D:\Vs2013 program\20180402\ListControl\ListControl\ListControl.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.60
